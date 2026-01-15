@@ -1,4 +1,3 @@
-# Trabalho Final - Qualidade e Teste de Software (Tema 3)
 
 ## Integrantes
 * Lucas Neves
